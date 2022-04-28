@@ -1,4 +1,4 @@
 Init
-main 1
+main 2
 aaa branch
 bbb branch 1
